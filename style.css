@@ -16,3 +16,7 @@ background-color: white;
 border: solid 1px black;
 color: black;
 }
+.poi:active{
+    background-color: hsl(211, 100%, 50%);
+    border-color: hsl(211, 100%, 50%);
+}
