@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 .button {
-    background-color: hsl(211, 100%, 50%);
+    background-color: hsl(0, 100%, 50%);
     border: solid 1px black;
     padding-top: 6px;
     padding-bottom: 6px;
@@ -18,8 +18,8 @@ border: solid 1px black;
 color: black;
 }
 .button:active{
-    background-color: hsl(211, 100%, 50%);
-    border-color: hsl(211, 100%, 50%);
+    background-color: hsl(0, 100%, 50%);
+    border-color: hsl(0, 100%, 50%);
 }
 .small{
     padding-top: 4px;
