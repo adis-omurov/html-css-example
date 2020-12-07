@@ -2,9 +2,17 @@
     box-sizing: border-box;
 }
 .poi {
+    background-color: hsl(211, 100%, 50%);
+    border: solid 1px black;
     padding-top: 6px;
     padding-bottom: 6px;
     padding-left: 12px;
     padding-right: 12px;
     font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.poi:hover{
+background-color: white;
+border: solid 1px black;
+color: black;
 }
