@@ -1,3 +1,18 @@
 *{
     box-sizing: border-box;
 }
+body{
+    background-color: black;
+}
+li{
+    display: flex;
+    display: inline;
+
+   
+}
+.poi{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    margin: 200px;
+}
